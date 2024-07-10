@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "bookkGothic";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/bookkGothic/bookkGothic-Light.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/bookkGothic/bookkGothic-Light.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/bookkGothic/bookkGothic-Light.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/bookkGothic/bookkGothic-Light.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/bookkGothic/bookkGothic-Light.ttf") format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: "bookkGothic";
+    font-weight: 700;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/bookkGothic/bookkGothic-Bold.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/bookkGothic/bookkGothic-Bold.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/bookkGothic/bookkGothic-Bold.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/bookkGothic/bookkGothic-Bold.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/bookkGothic/bookkGothic-Bold.ttf") format("truetype");
+    font-display: swap;
+} 
+.bookkGothic {
+    font-family: "bookkGothic";
+}
+.bookkGothic300 {
+    font-family: "bookkGothic";
+    font-weight: 300;
+}
+.bookkGothic700 {
+    font-family: "bookkGothic";
+    font-weight: 700;
+}
